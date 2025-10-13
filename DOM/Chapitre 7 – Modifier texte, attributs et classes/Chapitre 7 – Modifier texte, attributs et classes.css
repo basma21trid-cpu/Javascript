@@ -1,0 +1,10 @@
+.texte{
+  color: white;
+  background-color: purple;
+  padding: 5px;
+  border-radius: 8px;
+  width: 70px;
+}
+#titre{
+    color:purple;
+}
