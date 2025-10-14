@@ -4,7 +4,7 @@ let bouton = document.querySelector(".changer");
 
 bouton.addEventListener("click",function(){
     titre.innerText = "titre modifié";
-    titre.classList.toggle("highlight");
-    image.setAttribute("src", "photo.png");
-   image.setAttribute("alt", "Nouvelle image");
-});
+    titre.classList.toggle("texte");
+    image.setAttribute("src", "image/pink.jpg");
+   image.setAttribute("alt", "nouvelle image");
+})
