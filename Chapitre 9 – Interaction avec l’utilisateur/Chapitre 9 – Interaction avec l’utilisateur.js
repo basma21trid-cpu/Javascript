@@ -8,4 +8,4 @@ bouton.addEventListener("click",function(){
     }else{
         alert("Aucun nom saisie");
     }
-});
+}); 
